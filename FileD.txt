@@ -1,0 +1,4 @@
+hello,
+testing text file 
+with push cmd
+to repository
